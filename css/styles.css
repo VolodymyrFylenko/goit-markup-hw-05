@@ -701,6 +701,10 @@ position: absolute;
         fill: #4d5ae5;
  }
 
+ .textarea-comment {
+        margin-bottom: 16px;
+ }
+
 .modal-form-message {
         width: 100%;
         height: 120px;
