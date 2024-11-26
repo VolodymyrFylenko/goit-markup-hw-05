@@ -666,7 +666,7 @@ position: absolute;
 }
 
 .modal-form-field {
-        margin-bottom: 16px;
+        margin-bottom: 8px;
 }
 
 .modal-form-label {
@@ -680,6 +680,7 @@ position: absolute;
 
 .modal-form-wraper {
         position: relative;
+        margin-bottom: 16px;
 }
 
 .modal-form-input {
