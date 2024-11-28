@@ -669,6 +669,7 @@ position: absolute;
 
 .modal-form-label {
         display: block;
+        margin-bottom: 4px;
                 font-size: 12px;
                 line-height: 1.17;
                 letter-spacing: 0.04em;
@@ -775,6 +776,10 @@ line-height: 1.33333;
 .modal-form-agreement-icon {
         opacity: 0;
         fill: #f4f4fd;
+}
+
+.agreement-label {
+        margin-bottom: 0;
 }
 
 .visually-hidden {
